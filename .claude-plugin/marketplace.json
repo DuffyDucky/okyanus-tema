@@ -1,0 +1,5 @@
+{
+  "name": "okyanus-tema",
+  "owner": { "name": "DuffyDucky" },
+  "plugins": [{ "name": "okyanus", "source": "./" }]
+}
